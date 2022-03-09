@@ -28,4 +28,5 @@ Niektoré veci si možno vyžiadali viac času kvôli tomu ze boli pre mňa nov�
 
 
 ###Swagger: 
+
 https://app.swaggerhub.com/apis/smaczunich777/AMCEF_Zadanie/0.1#/default/get_get_post
