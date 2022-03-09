@@ -27,6 +27,6 @@ Alebo
 Niektoré veci si možno vyžiadali viac času kvôli tomu ze boli pre mňa nové.
 
 
-###Swagger: 
+### Swagger: 
 
-https://app.swaggerhub.com/apis/smaczunich777/AMCEF_Zadanie/0.1#/default/get_get_post
+https://app.swaggerhub.com/apis/smaczunich777/AMCEF_Zadanie/0.1#/default/get_get_post 
